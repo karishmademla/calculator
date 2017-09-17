@@ -4,7 +4,7 @@
 int main()
 {
   
-  int ch;
+  int ch,a,b;
   char ans;
   do
   {
