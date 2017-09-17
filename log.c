@@ -1,6 +1,7 @@
 #include<math.h>
+#include<stdio.h>
 
-void callog(int b)
+void callog(int a)
 {
-printf("The  value is %d\n",log(a));
+printf("The  value is %f\n",log(a));
 }
